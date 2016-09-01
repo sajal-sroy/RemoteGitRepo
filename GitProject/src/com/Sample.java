@@ -5,10 +5,5 @@ public class Sample {
 	System.out.println("hello world");
 	System.out.println("learne how to push in github");
 	System.out.println("learne how to push in github1");
-	int i=10;
-	while(i<10){
-		System.out.println("hello");
-		i++;
-	}
 }
 }
